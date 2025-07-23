@@ -1,9 +1,5 @@
-pickle==
-nltk==
-string==
-streamlit==
-jinja2==
-python==
-gunicorn==
-pandas==
-scikit-learn==
+streamlit
+nltk
+pandas
+scikit-learn
+jinja2
